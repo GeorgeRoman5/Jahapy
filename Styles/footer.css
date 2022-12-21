@@ -1,0 +1,14 @@
+footer{
+    background-color: #1C3150;
+    
+    
+  }
+  footer h2{
+   margin:0 5px 5px 0;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-left: 5px;
+    font-size: 0.8rem;
+    font-weight: 300;
+    text-align: center;
+  }
